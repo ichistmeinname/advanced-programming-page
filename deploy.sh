@@ -7,5 +7,5 @@ cp -r public/css .
 git add *.html
 git add css
 git commit -m "Update page"
-git push
+git push origin gh-pages
 git checkout master
