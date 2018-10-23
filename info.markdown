@@ -5,14 +5,9 @@ published: 2018-10-23
 
 # Relevant links
 
-## Git-Access
-
-* [GitLab](https://git.informatik.uni-kiel.de)
-* [Getting a personal account to use the institutional GitLab](https://www.inf.uni-kiel.de/en/service/technical-service/accounts?set_language=en)
-
 ## Supplementary Material for lecture
 
-* [Lecture notes](https://git.informatik.uni-kiel.de/sad/advanced-programming-lecture-notes)
+* [Lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf)
 
 ## Assignments
 
