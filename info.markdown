@@ -7,7 +7,7 @@ published: 2018-10-27
 
 ## Supplementary Material for Lecture
 
-* [Lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf) -- the notes are only accessable while connected to the university network, see the link above for more information on VPN
+* [Lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf) -- the notes are only accessable while connected to the university network, see the link below for more information on VPN
 
 ## Assignments
 
