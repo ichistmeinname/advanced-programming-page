@@ -14,8 +14,10 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; Concurrency Assignments #1 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2298)
-* &#9889; All students registered via StudiDB are now transfered to the [iLearn](https://ilearn.ps.informatik.uni-kiel.de/student/courses/156)
+* &#9889; The first chapters on functional programming are now available (see [lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf))
+* &#9889; Concurrency Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2299)
+* Concurrency Assignments #1 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2298)
+* All students registered via StudiDB are now transfered to the [iLearn](https://ilearn.ps.informatik.uni-kiel.de/student/courses/156)
 * Concurrency Assignment Discussion #1:  
   Thursday, November 1st, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Concurrency lecture #3: 
