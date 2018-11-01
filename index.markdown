@@ -1,6 +1,6 @@
 ---
 title: Home
-published: 2018-10-24
+published: 2018-11-01
 ---
 
 ## Information
