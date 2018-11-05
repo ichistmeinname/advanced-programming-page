@@ -14,9 +14,10 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
+* &#9889; You can now register for the concurrency test [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung) using the registration code WF26J9 until November 14th
 * &#9889; We added a link to the source code developed during the lectures (see [information](/info.html)-tab)
 * &#9889; The first chapters on functional programming are now available (see [lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf))
-* &#9889; Concurrency Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2299)
+* Concurrency Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2299)
 * Concurrency Assignments #1 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2298)
 * All students registered via StudiDB are now transfered to the [iLearn](https://ilearn.ps.informatik.uni-kiel.de/student/courses/156)
 * Concurrency Assignment Discussion #1:  
