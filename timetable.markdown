@@ -15,6 +15,8 @@ published: 2018-10-24
   November, 1st, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Assignment Discussion #2  
   November, 8th, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
+* Examination  
+  November, 16th, 10:15-11:45 AM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
 
 # Functional Programming
 
