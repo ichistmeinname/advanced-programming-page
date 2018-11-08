@@ -14,8 +14,9 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
+* &#9889; Today, Thurdsay (November 8th), Niels will have office hours from 14-16 PM at CAP4 - Room 711 -- come by and ask questions about the lecture, the assignments or his remarks on your assignments.
+* &#9889; Starting next Thurdsay (November 15th), Niels will have office hours from 10-12 AM at CAP4 - Room 711.
 * &#9889; The concurrency examination takes place on November 16th (10:15-11:45 AM) at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
-
 * &#9889; You can now register for the concurrency test [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung) using the registration code WF26J9 until November 14th
 * &#9889; We added a link to the source code developed during the lectures (see [information](/info.html)-tab)
 * &#9889; The first chapters on functional programming are now available (see [lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf))
