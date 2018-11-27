@@ -1,6 +1,6 @@
 ---
 title: Home
-published: 2018-11-15
+published: 2018-11-27
 ---
 
 ## Information
@@ -14,9 +14,9 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; FP Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2336)
-* &#9889; Starting next Thursday (November 15th), Niels will have office hours from 10-12 AM at CAP4 - Room 711.
-* &#9889; The concurrency examination takes place on November 16th (10:15-11:45 AM) at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
+* FP Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2336)
+* Starting next Thursday (November 15th), Niels will have office hours from 10-12 AM at CAP4 - Room 711.
+* The concurrency examination takes place on November 16th (10:15-11:45 AM) at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
 * We added an extra sheet to the iLearn that covers concurrency topics; all solutions are available and are a good source for your preparation for the exam on Friday
 * You can now register for the concurrency test [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung) using the registration code WF26J9 until November 14th
 * We added a link to the source code developed during the lectures (see [information](/info.html)-tab)
