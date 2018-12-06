@@ -1,6 +1,6 @@
 ---
 title: Home
-published: 2018-11-29
+published: 2018-12-06
 ---
 
 ## Information
@@ -31,7 +31,7 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
   Thursday, November 1st, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Concurrency lecture #3: 
   Thursday, November 1st, 8:00-10:00 AM at [CAP2 - Lecture Hall F](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/amf&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
-  * Concurrency Assignments #1 will be online on Thursday, October 25th, after the lecture
+* Concurrency Assignments #1 will be online on Thursday, October 25th, after the lecture
 * Concurrency lecture #2:  
   Thursday, October 25th, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Concurrency lecture #1:  
