@@ -1,6 +1,6 @@
 ---
 title: Home
-published: 2018-12-06
+published: 2018-12-11
 ---
 
 ## Information
@@ -14,9 +14,10 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; It finally worked! The screencast for the third session about functional programming can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP3.mp4).
+* The screencast for the fourth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP4.mp4).
 * &#9889; You can now register for the first test on functional programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code PV8CN5 until December, 12th.
 * &#9889; The first test on functional programming will take place on Friday, December 14th (10:15 - 11:45 AM) at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
+* It finally worked! The screencast for the third session about functional programming can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP3.mp4).
 * FP Assignments #2 is now [online](https://ilearn.ps.informatik.uni-kiel.de/common/courses/156/sheets/2336)
 * Starting next Thursday (November 15th), Niels will have office hours from 10-12 AM at CAP4 - Room 711.
 * The concurrency examination takes place on November 16th (10:15-11:45 AM) at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
