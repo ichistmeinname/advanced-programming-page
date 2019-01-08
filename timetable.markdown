@@ -49,7 +49,7 @@ published: 2019-01-08
 * Examination #1  
   December, 14th, 10:15-11:45 AM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
 * Examination #2  
-  January, 18th, 10:15-11:45 AM at TBA
+  January, 18th, 10:15-11:45 AM at [CAP2 - Lecture Hall H](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/amh&anonymous=1&founds=rekto/rekto/rekto/cap2ga,zentra_1/servic/ressou/gebude/refera_2/ama,/amb,/amc,/amd,/ame,/amf,/amg,/amh,/amk,/cap2,/cap2au,/cap2au_1,/cap2au_7,/cap2kc,/cap2kc_4,/cap2se,/cap2vo,/cap2vo_2,/cap2vo_8&ref=main&sem=2018w&__e=904)
 * Exam Discussion #1  
   December, 20th, 08:00-10:00 PM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
 * Exam Discussion #2  
