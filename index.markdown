@@ -1,6 +1,6 @@
 ---
 title: Home
-published: 2019-01-08
+published: 2019-02-05
 ---
 
 ## Information
@@ -14,10 +14,11 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; You can practice your functional programming skill by doing the exercise of an extra sheet that is available in the iLearn.
-* &#9889; You can now register for the first test on functional programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code QH9W1N until January, 16th.
-* &#9889; The screencast for the sixth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP6.mp4).
-* &#9889; The schedule for the topic of logic programming is now available.
+* &#9889; You can now register for the test on logic programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code QDKYZO until February, 20th.
+* You can practice your functional programming skill by doing the exercise of an extra sheet that is available in the iLearn.
+* You can now register for the second test on functional programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code QH9W1N until January, 16th.
+* The screencast for the sixth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP6.mp4).
+* The schedule for the topic of logic programming is now available.
 * The screencast for the fifth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP5.mp4).
 * The screencast for the fourth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP4.mp4).
 * You can now register for the first test on functional programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code PV8CN5 until December, 12th.
