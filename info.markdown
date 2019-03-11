@@ -10,10 +10,6 @@ published: 2018-11-02
 * [Lecture notes](http://www-ps.informatik.uni-kiel.de/~sad/advancedProgramming/AdvancedProgrammingLectureNotes.pdf) -- the notes are only accessable while connected to the university network, see the link below for more information on VPN
 * [Source code from lectures](https://git.informatik.uni-kiel.de/stu114713/advanced-programming-resources/tree/master/CodeFromLecture)
 
-## Assignments
-
-* link follows soon
-
 ## Preconditions
 * [Official CAU-page concerning preconditions](https://www.inf.uni-kiel.de/en/studies/programs/computer-science-master-program-in-english/information-concerning-preconditions)
 

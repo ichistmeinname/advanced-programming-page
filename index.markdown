@@ -14,8 +14,10 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; You can now register for the test on logic programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code QDKYZO until February, 20th.
-* You can practice your functional programming skill by doing the exercise of an extra sheet that is available in the iLearn.
+* &#9889; You can now register for the second try of the second(!) functional programming exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code YY2GJJ until March, 18th. Note: If you need to retake both functional programming exams, you need to register for the first and second exam.
+* &#9889; You can now register for the second try of the first(!) functional programming exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code GYRMQH until March, 18th. Note: If you need to retake both functional programming exams, you need to register for the first and second exam.
+* &#9889; You can now register for the second try of the concurrency exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code GQYD8X until March, 18th.
+* &#9889; You can now register for the second try of the logic programming exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code JHV3S5 until March, 18th.
 * You can now register for the second test on functional programming [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code QH9W1N until January, 16th.
 * The screencast for the sixth session about functional can be [watched here](http://videoserver3.rz.uni-kiel.de/advancedProgramming/sunip532/FP-Sessions/FP6.mp4).
 * The schedule for the topic of logic programming is now available.
