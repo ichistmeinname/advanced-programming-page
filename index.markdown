@@ -14,7 +14,7 @@ Please take a look at the [time table](/timetable.html) to stay updated when the
 
 ## News
 
-* &#9889; The [time table](/timetable.html] now lists all the room information about the exams on Friday.
+* &#9889; The [time table](/timetable.html) now lists all the room information about the exams on Friday.
 * You can now register for the second try of the second(!) functional programming exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code YY2GJJ until March, 18th. Note: If you need to retake both functional programming exams, you need to register for the first and second exam.
 * You can now register for the second try of the first(!) functional programming exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code GYRMQH until March, 18th. Note: If you need to retake both functional programming exams, you need to register for the first and second exam.
 * You can now register for the second try of the concurrency exam [here](https://www-ps.informatik.uni-kiel.de/pruefungsanmeldung/login) using the registration code GQYD8X until March, 18th.
