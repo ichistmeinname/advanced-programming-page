@@ -1,6 +1,6 @@
 ---
 title: Time Table
-published: 2019-02-05
+published: 2019-03-20
 ---
 
 # Concurrency
@@ -17,6 +17,8 @@ published: 2019-02-05
   November, 8th, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Examination  
   November, 16th, 10:15-11:45 AM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
+* Examination (2nd Try)
+  March, 22nd, 9:15-10:45 AM at [OHP5 - (Chemie II) - Lecture Hall II](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/instit_2/zentr/chemie_99&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=975)
 
 # Functional Programming
 
@@ -54,6 +56,10 @@ published: 2019-02-05
   December, 20th, 08:00-10:00 PM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
 * Exam Discussion #2  
   February, 7th, 08:00-10:00 PM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
+* Examination #1 (2nd Try)
+  March, 22nd, 13:30-15:00 PM at [OHP5 - (Chemie II) - Lecture Hall II](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/instit_2/zentr/chemie_99&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=975)
+* Examination #2 (2nd Try)
+  March, 22nd, 15:15-16:45 PM at [OHP5 - (Chemie II) - Lecture Hall II](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/instit_2/zentr/chemie_99&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=975)
 
 # Logic Programming
 
@@ -77,3 +83,5 @@ published: 2019-02-05
   February, 7th, 16:00-18:00 PM at [LMS6 - R.10](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/mathem/zentr/ms10&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=827)
 * Examination  
   February, 22nd, 10:15-11:45 AM at [CAP3 - Lecture Hall 3](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=zentra_1/servic/ressou/gebude/refera_2/cap3i&anonymous=1&founds=techn/infor/inform/progra/bfortp,/puefor&nosearch=1&ref=main&sem=2018w&__e=842)
+* Examination (2nd Try)
+  March, 22nd, 11:00-12:30 AM at [OHP5 - (Chemie II) - Lecture Hall II](http://univis.uni-kiel.de/form?__s=2&dsc=anew/room_view&rooms=mathe/instit_2/zentr/chemie_99&anonymous=1&lvs=techn/infor/inform/progra/bfortp&ref=main&sem=2018w&__e=975)
